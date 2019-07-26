@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="389" it="0" lt="389" ct="107" ts="1563579733570" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-1" dt="text" by="1985" sby="142" ng="3" na="3">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="181" it="0" lt="181" ct="85" ts="1563579733859" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-3" dt="text" by="1985" sby="142" ng="2" na="2">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="1199" it="0" lt="1199" ct="1096" ts="1563579733661" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-2" dt="text" by="1985" sby="142" ng="3" na="3">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="1194" it="0" lt="1194" ct="1094" ts="1563579734263" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-5" dt="text" by="1985" sby="142" ng="2" na="2">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="4398" it="0" lt="4398" ct="3089" ts="1563579734061" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-4" dt="text" by="1985" sby="142" ng="1" na="1">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+
+<httpSample t="226" it="0" lt="226" ct="132" ts="1563819386174" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-1" dt="text" by="1985" sby="142" ng="2" na="2">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="158" ct="81" ts="1563819386249" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-2" dt="text" by="1985" sby="142" ng="2" na="2">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="150" it="0" lt="150" ct="71" ts="1563819386445" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-3" dt="text" by="1985" sby="142" ng="1" na="1">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="151" it="0" lt="150" ct="71" ts="1563819386643" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-4" dt="text" by="1985" sby="142" ng="1" na="1">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="148" it="0" lt="148" ct="69" ts="1563819386843" s="true" lb="Staging - Initialize environment variables" rc="200" rm="OK" tn="PrimeTrust_API_Performance  1-5" dt="text" by="1985" sby="142" ng="1" na="1">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+
+<httpSample t="226" it="0" lt="225" ct="108" ts="1563825085943" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Initialize Staging Env 1-1" dt="text" by="1985" sby="142" ng="2" na="2">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="146" it="0" lt="146" ct="69" ts="1563825086150" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Initialize Staging Env 1-2" dt="text" by="1985" sby="142" ng="1" na="1">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+<httpSample t="149" it="0" lt="149" ct="71" ts="1563825086484" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Initialize Staging Env 1-3" dt="text" by="1985" sby="142" ng="1" na="1">
+  <java.net.URL>http://staging.primetrust.com/v2/account-types</java.net.URL>
+</httpSample>
+
+<httpSample t="753" it="0" lt="753" ct="117" ts="1563993459792" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-3" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="800" it="0" lt="800" ct="124" ts="1563993459783" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-1" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="529" it="0" lt="529" ct="68" ts="1563993460055" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-6" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="544" it="0" lt="543" ct="67" ts="1563993459959" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-5" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="753" it="0" lt="753" ct="125" ts="1563993459784" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-2" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="767" it="0" lt="767" ct="72" ts="1563993459867" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-4" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="378" it="0" lt="378" ct="67" ts="1563993460419" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-10" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="662" it="0" lt="662" ct="74" ts="1563993460145" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-7" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="542" it="0" lt="542" ct="76" ts="1563993460329" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-9" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="606" it="0" lt="606" ct="72" ts="1563993460287" s="true" lb="Create User" rc="201" rm="Created" tn="WF_CreateAccount 1-8" dt="text" by="633" sby="428" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://staging.primetrust.com/v2/users</java.net.URL>
+</httpSample>
+<httpSample t="2559" it="0" lt="2557" ct="2100" ts="1563993460636" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-4" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="2636" it="0" lt="2635" ct="2140" ts="1563993460591" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-1" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="2639" it="0" lt="2639" ct="2141" ts="1563993460591" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-6" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="2338" it="0" lt="2337" ct="1843" ts="1563993460895" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-8" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="2360" it="0" lt="2359" ct="1859" ts="1563993460873" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-9" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="2422" it="0" lt="2422" ct="1927" ts="1563993460809" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-7" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="2645" it="0" lt="2644" ct="2140" ts="1563993460591" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-3" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="2642" it="0" lt="2641" ct="2139" ts="1563993460597" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-5" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="2498" it="0" lt="2498" ct="1932" ts="1563993460800" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-10" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="2708" it="0" lt="2707" ct="2136" ts="1563993460596" s="true" lb="Basic AUT" rc="201" rm="Created" tn="WF_CreateAccount 1-2" dt="text" by="395" sby="258" ng="10" na="10">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://staging.primetrust.com/auth/jwts</java.net.URL>
+</httpSample>
+<httpSample t="1511" it="0" lt="1510" ct="74" ts="1563993463210" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-4" dt="text" by="2101" sby="2000" ng="10" na="10">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+<httpSample t="1712" it="0" lt="1711" ct="66" ts="1563993463243" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-9" dt="text" by="2101" sby="2000" ng="9" na="9">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+<httpSample t="1703" it="0" lt="1702" ct="76" ts="1563993463306" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-2" dt="text" by="2101" sby="2000" ng="8" na="8">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+<httpSample t="1811" it="0" lt="1811" ct="70" ts="1563993463236" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-6" dt="text" by="2101" sby="2000" ng="7" na="7">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+<httpSample t="1814" it="0" lt="1813" ct="69" ts="1563993463243" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-7" dt="text" by="2101" sby="2000" ng="6" na="6">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+<httpSample t="1834" it="0" lt="1834" ct="72" ts="1563993463231" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-1" dt="text" by="2101" sby="2000" ng="5" na="5">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+<httpSample t="1774" it="0" lt="1773" ct="69" ts="1563993463300" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-10" dt="text" by="2101" sby="2000" ng="4" na="4">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+<httpSample t="1844" it="0" lt="1844" ct="70" ts="1563993463246" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-5" dt="text" by="2101" sby="2000" ng="3" na="3">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+<httpSample t="1869" it="0" lt="1869" ct="67" ts="1563993463237" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-8" dt="text" by="2101" sby="2000" ng="2" na="2">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+<httpSample t="1882" it="0" lt="1882" ct="68" ts="1563993463244" s="true" lb="Create Account" rc="201" rm="Created" tn="WF_CreateAccount 1-3" dt="text" by="2101" sby="2000" ng="1" na="1">
+  <java.net.URL>http://staging.primetrust.com/v2/accounts</java.net.URL>
+</httpSample>
+
+</testResults>
